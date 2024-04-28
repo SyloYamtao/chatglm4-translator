@@ -1,0 +1,8 @@
+loguru==0.7.2
+reportlab==4.2.0
+PyJWT==2.8.0
+numpy==1.26.4
+pandas==2.2.2
+langchain==0.1.15
+gradio==4.22.0
+pdfplumber==0.11.0
