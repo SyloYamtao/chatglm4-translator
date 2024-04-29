@@ -11,7 +11,7 @@ from utils import LOG
 
 class TranslationChain:
     def __init__(self, model_name: str = "glm-4", verbose: bool = True):
-        
+
         # Translation task is always performed by the System role
         template = (
             """You are a translation expert, proficient in various languages. \n
@@ -42,8 +42,8 @@ class TranslationChain:
                 "source_language": source_language,
                 "target_language": target_language,
             })
+            LOG.debug(f"[translation_result]\n {result}")
         except Exception as e:
             LOG.error(f"An error occurred during translation: {e}")
             return result, False
-
         return result, True
