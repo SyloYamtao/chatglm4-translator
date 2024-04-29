@@ -78,7 +78,7 @@ If you see Running on local URL: http://0.0.0.0:7860 and Running on public URL: 
 
 | 样例                                                            | 翻译结果                                                                              |
 |---------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| [THE_OLD_MAN_OF_THE_SEA.pdf](test/THE_OLD_MAN_OF_THE_SEA.pdf) | [THE_OLD_MAN_OF_THE_SEA_TRANSLATED.md](test/THE_OLD_MAN_OF_THE_SEA_TRANSLATED.md) |
+| [THE_OLD_MAN_OF_THE_SEA.pdf](test/THE_OLD_MAN_OF_THE_SEA.pdf) | [THE_OLD_MAN_OF_THE_SEA_translated.md](test/THE_OLD_MAN_OF_THE_SEA_translated.md) |
 
 ## 许可证
 

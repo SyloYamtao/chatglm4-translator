@@ -79,7 +79,7 @@ it means the startup was successful. Please enter any of the provided URLs in a 
 
 | Example                                                       | Result                                                                            |
 |---------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| [THE_OLD_MAN_OF_THE_SEA.pdf](test/THE_OLD_MAN_OF_THE_SEA.pdf) | [THE_OLD_MAN_OF_THE_SEA_TRANSLATED.md](test/THE_OLD_MAN_OF_THE_SEA_TRANSLATED.md) |
+| [THE_OLD_MAN_OF_THE_SEA.pdf](test/THE_OLD_MAN_OF_THE_SEA.pdf) | [THE_OLD_MAN_OF_THE_SEA_translated.md](test/THE_OLD_MAN_OF_THE_SEA_translated.md) |
 
 ## License
 
